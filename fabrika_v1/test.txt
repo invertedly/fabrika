@@ -1,0 +1,5 @@
+point 1 2
+rect 1 2 3 4
+line 10 10 20 20
+triangle
+circle 10 10 5
